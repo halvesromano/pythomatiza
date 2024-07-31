@@ -24,6 +24,6 @@ def remai(first_number, second_number):
 
 def quoti_remai(first_number, second_number):
   # TODO: retorne o quociente e o resto da divisão, nesta exata ordem, dos parâmetros first_number e second_number
-  quote = first_number // second_number
-  remain = first_number % second_number
-  return quote, remain
+  quociente = first_number // second_number
+  resto = first_number % second_number
+  return quociente, resto
