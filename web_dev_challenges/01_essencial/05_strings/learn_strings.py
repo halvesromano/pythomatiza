@@ -5,16 +5,16 @@ def has_letter(letter, input_word):
 
 def uper_case(input_word):
     # TODO: Retorne o valor to texto todo em letras maiúsculas
-    return input_word.upper()
+    pass
 
 
 def lower_case(input_word):
     # TODO: Retorne o valor to texto todo em letras minúsculas
-    return input_word.lower()
+    pass
 
 def capitalize(input_word):
     # TODO: Retorne o valor to texto todo com a primeira letra maiúscula
-    return input_word.title()
+    pass
 
 def reverse(input_word):
     # TODO: Retorne o valor inverso de um texto
